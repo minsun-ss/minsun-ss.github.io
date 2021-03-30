@@ -14,3 +14,8 @@ educative exercises could be beefed up. Admittedly I'm not that far in the C++ m
 even though the early going is pretty straightforward since operators are pretty much all the same regardless of 
 language. 
 
+Should've mentioned that I did a milestone project involving fish. You can see it [here](https://github.com/minsun-ss/argo_ocean_data_analysis).
+
+My ML milestone will involve uh... *checks notes* ... small cap stocks, I think. My partner thinks it's high time
+I enter the quant world, which I find mostly dubious. Is it really quantlike to think that like 99% of problems can
+be solved with a linear regression? 
